@@ -1,0 +1,19 @@
+# Export of 
+# from Aaro4130 OBJ Exporter v2.0
+mtllib terrain.mtl
+g Terrain
+v -50 0 -50
+v 50 0 -50
+v 50 0 50
+v -50 0 50
+vn 0 0.5773503 0
+vn 0 0.5773503 0
+vn 0 0.5773503 0
+vn 0 0.5773503 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+usemtl YellowLight
+f 3/3/3 2/2/2 1/1/1
+f 4/4/4 3/3/3 1/1/1

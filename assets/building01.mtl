@@ -1,0 +1,20 @@
+newmtl BuildingWhite
+Kd 0.8529412 0.8529412 0.8529412
+illum 2
+
+newmtl BuildingGrey
+Kd 0.4338235 0.4051146 0.4051146
+illum 2
+
+newmtl BuildingMetal
+Kd 0.8088235 0.8088235 0.8088235
+illum 2
+
+newmtl BuildingGlass
+Kd 0.2138841 0.2357535 0.3161765
+illum 2
+
+newmtl BuildingStone
+Kd 0.6617647 0.6190118 0.5352509
+illum 2
+

@@ -1,0 +1,8 @@
+newmtl BuildingWhite
+Kd 0.8529412 0.8529412 0.8529412
+illum 2
+
+newmtl BuildingMetal
+Kd 0.8088235 0.8088235 0.8088235
+illum 2
+

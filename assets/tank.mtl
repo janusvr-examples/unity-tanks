@@ -1,0 +1,12 @@
+newmtl TankColour
+Kd 0.4938108 0.8088235 0.2497837
+illum 2
+
+newmtl TankGrey
+Kd 0.2867647 0.2867647 0.2867647
+illum 2
+
+newmtl TankLights
+Kd 0.6958261 0.7667418 0.8088235
+illum 2
+

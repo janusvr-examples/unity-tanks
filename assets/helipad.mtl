@@ -1,0 +1,16 @@
+newmtl BuildingStone
+Kd 0.6617647 0.6190118 0.5352509
+illum 2
+
+newmtl BuildingWhite
+Kd 0.8529412 0.8529412 0.8529412
+illum 2
+
+newmtl OilDrums
+Kd 0.3676471 0.2892517 0.2892517
+illum 2
+
+newmtl YellowDark
+Kd 0.625 0.4276461 0.2415695
+illum 2
+
