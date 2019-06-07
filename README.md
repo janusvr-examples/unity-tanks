@@ -12,4 +12,4 @@ To learn about how you can export Unity scenes into JanusVR, check out this guid
 
 ![Unity Export](https://i.imgur.com/mvIJLg4.jpg)
 
-The portal in the corner is a custom component which leads the user into a [unity webvr demo](https://mozilla.github.io/unity-webvr-export/) by Mozilla [source](https://github.com/mozilla/unity-webvr-export).
+The portal in the corner is a custom component which leads the user into a [unity webvr demo](https://mozilla.github.io/unity-webvr-export/) by Mozilla: [github source](https://github.com/mozilla/unity-webvr-export).
